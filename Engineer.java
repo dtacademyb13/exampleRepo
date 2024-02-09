@@ -2,6 +2,9 @@ package myPack;
 
 public class Engineer {
 
+//Basic POJO
+
+
 // fields
     private String name;
     private String position;
